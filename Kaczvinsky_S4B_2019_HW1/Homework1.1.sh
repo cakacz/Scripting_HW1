@@ -15,4 +15,4 @@ export OMP_NUM_THREADS=2
 #replace outputfile with a the address of the desired filename (note: the output will be a tree)
 
 FastTree -nt -gtr inputfile outputfile
-
+#commenting just for the sake of it
